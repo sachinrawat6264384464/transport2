@@ -13,7 +13,7 @@ const Footer = () => {
           <a href="/contact">Contact</a>
           <a href="/about">About Us</a>
           <a href="/terms">Terms</a>
-          <a href="/privacy">Privacy</a>
+          <a href="/rivacy">Privacy</a>
         </div>
 
         <div className="footer-copyright">
